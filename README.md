@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josuahutapea
-- 👀 I’m interested in Android, Web Development, and Data Science
+- 👀 I’m interested in Flutter and Native Android app development (using Dart or Kotlin).
 - 🌱 I’m currently learning Artificial Neural Network on TensorFlow
 - 💞️ I’m looking to collaborate on building mobile app or developing machine learning models
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/josuahutapea/)
